@@ -1,4 +1,4 @@
-## Multidrug resistant Enterobacter bugandensis gains genomic, functional and metabolic advantages for thriving in International Space Station
+## Multidrug resistant _Enterobacter bugandensis_ gains genomic, functional and metabolic advantages for thriving in International Space Station
 
 
 A detailed scripts and procedures are given in the Wiki page
