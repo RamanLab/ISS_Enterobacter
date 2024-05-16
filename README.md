@@ -37,5 +37,5 @@ Our comprehensive analysis illuminated not only the ways these interactions scul
 **Cite:**
 
 <p align="justify">
-Sengupta, P., Muthamilselvi Sivabalan, S. K., Singh, N. K., Raman, K., & Venkateswaran, K. (2023). Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter bugandensis facilitating its persistence and succession in the International Space Station. bioRxiv. https://doi.org/10.1101/2023.09.05.556398
+Sengupta, P., Muthamilselvi Sivabalan, S., Singh, N.K. et al. Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter bugandensis facilitating its persistence and succession in the International Space Station. Microbiome 12, 62 (2024). https://doi.org/10.1186/s40168-024-01777-1
 </p>
